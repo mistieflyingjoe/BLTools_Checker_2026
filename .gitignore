@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+
+/Results/
+/Logs/
+/Combo/
+proxies.txt
+config.json
